@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance, Access Modifiers-29.06.2020", "Inheritance, Access Modifiers-29.06.2020\Inheritance, Access Modifiers-29.06.2020.csproj", "{3A4088DD-071D-420E-94C4-04803D7C7680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4088DD-071D-420E-94C4-04803D7C7680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4088DD-071D-420E-94C4-04803D7C7680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4088DD-071D-420E-94C4-04803D7C7680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4088DD-071D-420E-94C4-04803D7C7680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {383E5EFA-3D30-4E73-81BD-D1CADB274230}
+	EndGlobalSection
+EndGlobal
